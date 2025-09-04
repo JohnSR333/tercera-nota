@@ -14,11 +14,8 @@ public class Main {
         double precio = sc.nextDouble();
         System.out.print("Cantidad inicial en stock: ");
         int cantidad = sc.nextInt();
-
-
-        producto.registrar(nombre, precio, cantidad);
-
-
+        
+        producto.registrar(nombre, precio, cantidad);   
         producto.mostrarProducto();
 
  

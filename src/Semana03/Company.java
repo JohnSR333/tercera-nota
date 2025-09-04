@@ -11,7 +11,7 @@ public class Company {
         if (salario > 0) {
             this.salario = salario;
         } else {
-            System.out.println("El salario debe ser mayor a 0.");
+            System.out.println("El salario debe ser mayor a 0");
         }
     }
 
@@ -24,9 +24,14 @@ public class Company {
         if (cantidad > 0) {
             salario += cantidad;
         } else {
-            System.out.println("La cantidad para aumentar debe ser positiva.");
+            System.out.println("La cantidad para aumentar debe ser positiva");
         }
     }
-        
+    void mostrarEmpleado() {
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Rol: " + rol);
+        System.out.println("Salario: " + salario);
+        }
     }
 }
+
