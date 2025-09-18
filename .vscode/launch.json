@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Semana04.PasoPorReferencia.Main",
+            "projectName": "tercera-nota_c2d0ecde"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana04.ClassName.Main",
+            "projectName": "tercera-nota_c2d0ecde"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana04.Main",
+            "projectName": "tercera-nota_c2d0ecde"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "ActividadEnGrupo.Main",
             "projectName": "tercera-nota_c2d0ecde"
         },
