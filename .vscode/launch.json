@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Semana05.App",
+            "projectName": "tercera-nota_ff250e3c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Semana05.actividad.App",
+            "projectName": "tercera-nota_ff250e3c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Semana05.objeto.App",
+            "projectName": "tercera-nota_ff250e3c"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Semana04.PasoPorReferencia.Main",
