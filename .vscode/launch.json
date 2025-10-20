@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Unidad02.Actividad4.Main",
+            "projectName": "tercera-nota_1fd44c6f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Unidad02.Actividad3.Main",
+            "projectName": "tercera-nota_1fd44c6f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Unidad02.Actividad2.Main",
+            "projectName": "tercera-nota_1fd44c6f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Unidad02.Actividad1.Main",
+            "projectName": "tercera-nota_1fd44c6f"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "Semana05.App",
