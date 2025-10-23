@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Unidad03.Main",
+            "projectName": "tercera-nota_1fd44c6f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Unidad02.Actividad4.Main",
             "projectName": "tercera-nota_1fd44c6f"
         },
